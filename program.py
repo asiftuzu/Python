@@ -1,1 +1,1 @@
-print("Python")
+a = 6+7
